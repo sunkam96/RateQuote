@@ -1,0 +1,65 @@
+.page-content {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    height: 1000px;
+    background-color: #ececec;
+}
+
+.form-container{
+    width: 25%;
+    height: 100%;
+}
+
+.signup-form{
+    min-height: 500px;
+    width: 80%;
+    margin-top: 50px;
+    margin-left: 10%;
+    background-color: #9fd3c7;
+}
+
+.signup-form-header{
+    color: white;
+    width: 100%;
+    background-color: #142d4c;
+}
+
+.quote-container{
+    margin-top: 50px;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    width: 75%;
+    background-color: #9fd3c7;
+}
+
+.quote-container-header{
+    color: white;
+    background-color: #142d4c;
+}
+
+.input-form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-form-group-row {
+    display: flex;
+    flex-direction: column;
+}
+
+.quote-container-chart{
+    display: elx;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.quote-container-fields {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 3%;
+    margin-left: 3%;
+}
+
