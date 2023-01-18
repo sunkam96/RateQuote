@@ -185,8 +185,8 @@ function Quotes(props) {
                 <div><b>Rate estimate terms</b></div>
                 <div>Rate: {props.data.interestRate}</div>
                 <div>Rocket Mortgage Points: 100</div>
-                <div>AT Lending Points: </div>
-                <div>Caliber Points: </div>
+                <div>AT Lending Points: 100</div>
+                <div>Caliber Points: 100</div>
                 <div>Loan amount: {props.data.loanAmount}</div>
                 <div>Loan term: {props.data.loanTerm} </div>
                 <div>FICO score: {props.data.ficoScore} </div>
