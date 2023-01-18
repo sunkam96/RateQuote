@@ -61,5 +61,6 @@
     align-items: flex-start;
     margin-top: 3%;
     margin-left: 3%;
+    min-height: 500px;
 }
 
