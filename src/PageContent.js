@@ -84,8 +84,9 @@ function PageContent(){
     const [data, setData] = useState(initialData);
     return (
         <div className="page-content">
-            <Form setData={setData}/>
-            <Quotes data={data} />
+            <h3>Calculate your rates</h3>
+            {/* <Form setData={setData}/> */}
+            {/* <Quotes data={data} /> */}
         </div>
     )
 }
